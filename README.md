@@ -1,4 +1,4 @@
-**##PHPScanDirectory##**
+**PHPScanDirectory**
 
 Example PHP code for read file in folder and subfolder recursively.
 
@@ -17,4 +17,4 @@ If you want to activate the rename function you can unremark this line(in this e
 
 `rename($filename, str_replace(".php",".txt",$file));`
 
->WARNING: Please be aware of this code. It will rename all of your .PHP file to be .TXT file. Be carefull about your project(That's why i not activated this code as default). Thanks.>
+>WARNING: Please be aware of this code. It will rename all of your .PHP file to be .TXT file. Be carefull about your project(That's why i not activated this code as default).

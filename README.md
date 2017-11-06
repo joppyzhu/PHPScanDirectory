@@ -1,4 +1,4 @@
-##**PHPScanDirectory**##
+**##PHPScanDirectory##**
 
 Example PHP code for read file in folder and subfolder recursively.
 
